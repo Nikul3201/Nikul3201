@@ -12,11 +12,11 @@ I’m a **Full-Stack Developer with 3+ years of professional experience** design
 
 My development experience spans **backend architecture, API development, distributed systems, and modern frontend frameworks**. I have worked in **Agile development environments**, collaborating with cross-functional teams to deliver reliable and scalable software solutions.
 
-- 🔹 3+ years of experience in full-stack development  
-- 🔹 Strong expertise in **Java, Spring Boot, and React**  
-- 🔹 Experienced in **RESTful API design and microservices architecture**  
-- 🔹 Hands-on experience with **cloud tools, containerization, and DevOps practices**  
-- 🔹 Continuously learning **Cloud Architecture, DevOps, and scalable backend systems**
+  🔹 3+ years of experience in full-stack development  
+  🔹 Strong expertise in **Java, Spring Boot, and React**  
+  🔹 Experienced in **RESTful API design and microservices architecture**  
+  🔹 Hands-on experience with **cloud tools, containerization, and DevOps practices**  
+  🔹 Continuously learning **Cloud Architecture, DevOps, and scalable backend systems**
 
 ---
 
